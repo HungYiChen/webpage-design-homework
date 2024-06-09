@@ -45,7 +45,10 @@ nav ul li a:hover {
 }
 
 h1, h2, h3 {
-    color: #4CAF50;
+    color: #ffffff; /* 更改標題顏色 */
+    background-color: #4CAF50;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 img {
