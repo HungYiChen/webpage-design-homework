@@ -35,7 +35,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #4CAF50;
+    background-color: #45a049;
 }
 
 .container {
@@ -45,8 +45,8 @@ nav ul li a:hover {
 }
 
 h1, h2, h3 {
-    color: #ffffff; /* 更改標題顏色 */
-    background-color: #4CAF50;
+    color: #333; /* 更改標題顏色 */
+    background-color: #e8e8e8;
     padding: 10px;
     border-radius: 5px;
 }
