@@ -51,11 +51,13 @@ h1, h2, h3 {
 img {
     max-width: 100%;
     height: auto;
+    margin: 20px 0;
 }
 
 video {
     display: block;
     margin: 20px auto;
+    max-width: 100%;
 }
 
 footer {
@@ -66,4 +68,11 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+.homepage-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
 }
